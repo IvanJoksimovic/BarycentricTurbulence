@@ -5,5 +5,6 @@ operate on any number of fields, whoose names are provided as a word list throug
 # Compilation
 Compilation is done through the wmake wrapper. Tested on version v2012.
 # Examples
-BarycentricTurbulence -latestTime -fields "(R)"
-BarycentricTurbulence -latestTime -fields "(UPrime2Mean RMean)"
+1) BarycentricTurbulence -latestTime -fields "(R)"
+  
+2) BarycentricTurbulence -latestTime -fields "(UPrime2Mean RMean)"
